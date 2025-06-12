@@ -7,10 +7,10 @@ class AnimadorTexto {
 
         this.frases = [
             "Oi meu amor, feliz dia dos namorados, hoje é um dia muito especial,",
-            "esse é o primeiro de muitos que eu tenho a certeza que eu quero estar do seu lado sempre,",
-            "Você me ilumina todos os dias,",
-            "e faz com que sua presença seja muito aconchegante para mim.",
-            "Você é meu amor, minha paz, minha luz no fim do túnel, eu te amo demais minha princesa!",
+            "Oi meu amor, feliz dia dos namorados, hoje é um dia muito especial, esse é o primeiro de muitos que eu tenho a certeza que eu quero estar do seu lado sempre,",
+            "Oi meu amor, feliz dia dos namorados, hoje é um dia muito especial, esse é o primeiro de muitos que eu tenho a certeza que eu quero estar do seu lado sempre, você me ilumina todos os dias,",
+            "Oi meu amor, feliz dia dos namorados, hoje é um dia muito especial, esse é o primeiro de muitos que eu tenho a certeza que eu quero estar do seu lado sempre, você me ilumina todos os dias, e faz com que sua presença seja muito aconchegante para mim.",
+            "Oi meu amor, feliz dia dos namorados, hoje é um dia muito especial, esse é o primeiro de muitos que eu tenho a certeza que eu quero estar do seu lado sempre, você me ilumina todos os dias, e faz com que sua presença seja muito aconchegante para mim. você é meu amor, minha paz, minha luz no fim do túnel, eu te amo demais minha princesa!",
         ];
 
         this.imagens = [
