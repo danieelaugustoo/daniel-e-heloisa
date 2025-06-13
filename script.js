@@ -115,7 +115,7 @@ class AnimadorTexto {
     }
 
     aoCompletarAnimacao() {
-        console.log("Animação de texto concluída");
+        console.log("Animação de texto concluída.");
     }
 
     adicionarFrase(frase) {
